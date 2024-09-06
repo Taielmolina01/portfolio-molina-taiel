@@ -11,7 +11,7 @@ form {
     width: 350px;
     border: 1px solid black;
     border-radius: 10px;
-    resize: both;
+    resize: vertical;
 }
 
 form input {
@@ -27,7 +27,7 @@ form textarea {
     height: 100px;
     margin: 10px 0;
     width: 100%;
-    resize: both;
+    resize: vertical;
 }
 
 form button {
