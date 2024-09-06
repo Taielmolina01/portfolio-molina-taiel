@@ -1,0 +1,16 @@
+* {
+  font-family: montserrat;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+section h2 {
+  margin-left: 20px;
+}

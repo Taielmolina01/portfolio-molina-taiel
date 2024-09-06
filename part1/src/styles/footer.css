@@ -1,0 +1,20 @@
+footer {
+    background-color: #06373a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    color: white;
+}
+
+footer p {
+    padding: 10px 0;
+}
+
+footer div a {
+    padding: 0 10px;
+}
+
+footer div a i {
+    color: white
+}

@@ -1,0 +1,36 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    padding: 20px 30px;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    resize: both;
+}
+
+form input {
+    border-radius: 10px;
+    width: 100%;
+    height: 25px;
+    margin: 10px 0;
+}
+
+
+form textarea {
+    border-radius: 10px;
+    height: 100px;
+    margin: 10px 0;
+    width: 100%;
+    resize: both;
+}
+
+form button {
+    font-weight: bold;
+    color: white;
+}
