@@ -1,4 +1,4 @@
-import '../styles/experience.css'
+import '../styles/index.css'
 import ExperienceCard from './experiencecard.jsx'
 
 const experiencia = {

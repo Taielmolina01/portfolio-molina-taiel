@@ -1,4 +1,4 @@
-import '../styles/footer.css'
+import '../styles/index.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 

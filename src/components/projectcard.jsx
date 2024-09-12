@@ -1,4 +1,4 @@
-import '../styles/projectcard.css'
+import '../styles/index.css'
 import UsedTechnology from './usedTechnology.jsx'
 
 function ProjectCard ({name, image, description, usedTechnologies, href}) {

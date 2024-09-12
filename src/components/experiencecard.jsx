@@ -1,4 +1,4 @@
-import '../styles/experiencecard.css'
+import '../styles/index.css'
 
 function ExperienceCard ({image, title, subtitle, description, timeElapsed}) {
     return (

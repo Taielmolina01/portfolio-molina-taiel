@@ -1,4 +1,4 @@
-import '../styles/skills.css'
+import '../styles/index.css'
 import SkillsCard from './skillscard'
 
 const languages = {
